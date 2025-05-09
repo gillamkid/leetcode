@@ -1,0 +1,11 @@
+uses Monaco Editor
+  web editor made by Microsoft
+  shares many VS code shortcuts
+
+ctrl + space : suggestions
+ctrl + enter : run program
+ctrl g - go to line
+ctrl h - replace
+alt up - move current line up
+alt down - move current line down
+alt z - (toggle) show off screen text on new line
